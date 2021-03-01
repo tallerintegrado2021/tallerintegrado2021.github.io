@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Overview - Nombre Apellido - MID 2021</title>
+  <title>Configuración - Nombre Apellido - MID 2021</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="icon" href="https://tallerintegrado2021.github.io/favicon.png">
@@ -18,7 +18,7 @@
 
 </head>
 
-<body class='page page-default-list'>
+<body class='page page-default-single'>
   <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
     
@@ -29,7 +29,7 @@
       </a>
     </li>
     
-    <li class="menu-item-dococumentación active">
+    <li class="menu-item-dococumentación">
       <a href="/docs/">
         <span>Dococumentación</span>
       </a>
@@ -56,7 +56,7 @@
       </a>
     </li>
     
-    <li class="menu-item-dococumentación active">
+    <li class="menu-item-dococumentación">
       <a href="/docs/">
         <span>Dococumentación</span>
       </a>
@@ -94,7 +94,7 @@
       <a href="https://tallerintegrado2021.github.io/docs/instalar-tema/">Instalar Tema</a>
     </li>
     
-    <li class="">
+    <li class="active ">
       <a href="https://tallerintegrado2021.github.io/docs/configuracion/">Configuración</a>
     </li>
     
@@ -117,52 +117,38 @@
         </div>
         <div class="col-12 col-md-9">
           
+<h1 class="title">Configuración</h1>
+<div class="content ">
+  <!-- raw HTML omitted -->
+<h2 id="highlighting-de-código">Highlighting de Código</h2>
+<p>Este tema utiliza el resaltado de código incorporado que se incluye con Hugo. <a href="https://gohugo.io/content-management/syntax-highlighting/">https://gohugo.io/content-management/syntax-highlighting/</a></p>
+<p>Puede insertar fragmentos de código en cualquier Markdown utilizando la sintaxis de highlighting, es decir:</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">```
+insertar código acá
+```
+</code></pre></div><p>Puede especificar el lenguaje de programación agregando una declaración después de los backticks</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">```html
+insertar código acá
+```
+</code></pre></div><h3 id="opciones-de-resaltado-de-código">Opciones de resaltado de código</h3>
+<p>Las opciones de resaltado de código se configuran en <code>config.toml</code></p>
+<div class="highlight"><pre class="chroma"><code class="language-toml" data-lang="toml"><span class="nx">pygmentsCodeFences</span> <span class="p">=</span> <span class="kc">true</span>
+<span class="nx">pygmentsCodefencesGuessSyntax</span> <span class="p">=</span> <span class="kc">true</span>
+<span class="nx">pygmentsUseClasses</span> <span class="p">=</span> <span class="kc">true</span>
+</code></pre></div><h2 id="menú-principal">Menú principal</h2>
+<p>Configure el menú principal editando el <code>config.toml</code></p>
+<div class="highlight"><pre class="chroma"><code class="language-toml" data-lang="toml"><span class="p">[[</span><span class="nx">menu</span><span class="p">.</span><span class="nx">main</span><span class="p">]]</span>
+    <span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Inicio&#34;</span>
+    <span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;/&#34;</span>
+    <span class="nx">weight</span> <span class="p">=</span> <span class="mi">1</span>
 
-<span class="overview">Resumen</span>
-<h1 class="title">Overview</h1>
-<div class="content">
-  <h2 id="whisper-theme">Whisper Theme</h2>
-<p>Whisper is a minimal documentation theme for Hugo. The design and functionality is intentionally minimal. We’re aiming for a similar feel to a Github readme.</p>
-
+<span class="p">[[</span><span class="nx">menu</span><span class="p">.</span><span class="nx">main</span><span class="p">]]</span>
+    <span class="nx">name</span> <span class="p">=</span> <span class="s2">&#34;Documentación&#34;</span>
+    <span class="nx">url</span> <span class="p">=</span> <span class="s2">&#34;/docs/&#34;</span>
+    <span class="nx">weight</span> <span class="p">=</span> <span class="mi">2</span>
+</code></pre></div>
 </div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://tallerintegrado2021.github.io/docs/instalar-tema/">Instalar Tema</a></h2>
-  <p>Tutorial de intalación del tema utilizando el Framework Hugo.</p>
 </div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://tallerintegrado2021.github.io/docs/configuracion/">Configuración</a></h2>
-  <p>Tutorial de configuración básica del menú y otros elementos del tema.</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://tallerintegrado2021.github.io/docs/ejemplo/">Ejemplo Shortcodes</a></h2>
-  <p>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://tallerintegrado2021.github.io/docs/markdown/">Ejemplos Markdown</a></h2>
-  <p>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</p>
-</div>
-
-
-<div class="summary mb-2">
-  
-  <h2 class="title-summary"><a href="https://tallerintegrado2021.github.io/docs/objetivos/">Objetivos del Curso</a></h2>
-  <p>Objetivos general y específico del Taller del segundo trimestre de 2020.</p>
-</div>
-
-
-
 
         </div>
       </div>
