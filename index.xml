@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nombre Apellido on Nombre Apellido - MID 2021</title>
+    <title>Nombre Alumno on Nombre Apellido - MID 2021</title>
     <link>https://tallerintegrado2021.github.io/</link>
-    <description>Recent content in Nombre Apellido on Nombre Apellido - MID 2021</description>
+    <description>Recent content in Nombre Alumno on Nombre Apellido - MID 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://tallerintegrado2021.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://tallerintegrado2021.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Instalar Tema</title>
       <link>https://tallerintegrado2021.github.io/docs/instalar-tema/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://tallerintegrado2021.github.io/docs/instalar-tema/</guid>
       <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
-    </item>
-    
-    <item>
-      <title>Configuración</title>
-      <link>https://tallerintegrado2021.github.io/docs/configuracion/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://tallerintegrado2021.github.io/docs/configuracion/</guid>
-      <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
     </item>
     
     <item>
@@ -41,15 +32,6 @@
       
       <guid>https://tallerintegrado2021.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Objetivos del Curso</title>
-      <link>https://tallerintegrado2021.github.io/docs/objetivos/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://tallerintegrado2021.github.io/docs/objetivos/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
     </item>
     
   </channel>
