@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://tallerintegrado2021.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Tutoriales</title>
+      <link>https://tallerintegrado2021.github.io/docs/tutoriales-encargo0/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tallerintegrado2021.github.io/docs/tutoriales-encargo0/</guid>
+      <description>Video tutoriales para la creación de sitios web personales con Hugo.</description>
+    </item>
+    
+    <item>
       <title>Instalar Tema</title>
       <link>https://tallerintegrado2021.github.io/docs/instalar-tema/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
