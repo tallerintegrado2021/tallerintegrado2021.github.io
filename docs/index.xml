@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Integrado MID 2021 on Nombre Apellido - MID 2021</title>
+    <title>Taller Integrado 2021</title>
     <link>https://tallerintegrado2021.github.io/docs/</link>
-    <description>Recent content in Taller Integrado MID 2021 on Nombre Apellido - MID 2021</description>
+    <description>Recent content on Taller Integrado 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://tallerintegrado2021.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,15 @@
       
       <guid>https://tallerintegrado2021.github.io/docs/tutoriales-encargo0/</guid>
       <description>Video tutoriales para la creación de sitios web personales con Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial - Keyshot</title>
+      <link>https://tallerintegrado2021.github.io/docs/tutoriales-keyshot/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tallerintegrado2021.github.io/docs/tutoriales-keyshot/</guid>
+      <description>Video tutoriales Software Keyshot para render y animación.</description>
     </item>
     
     <item>
