@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Tutorial - Grasshopper</title>
-      <link>https://tallerintegrado2021.github.io/docs/tutoriales-grasshopper/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://tallerintegrado2021.github.io/docs/tutoriales-grasshopper/</guid>
-      <description>Video tutoriales Grasshopper.</description>
-    </item>
-    
-    <item>
       <title>Tutorial - Keyshot</title>
       <link>https://tallerintegrado2021.github.io/docs/tutoriales-keyshot/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -41,6 +32,15 @@
       
       <guid>https://tallerintegrado2021.github.io/docs/tutoriales-extra/</guid>
       <description>Video tutoriales de Software - Complementario</description>
+    </item>
+    
+    <item>
+      <title>Tutoriales Fusion 360</title>
+      <link>https://tallerintegrado2021.github.io/docs/tutoriales-fusion/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tallerintegrado2021.github.io/docs/tutoriales-fusion/</guid>
+      <description>Video tutoriales de Fusion 360.</description>
     </item>
     
     <item>
