@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Integrado MID  on Taller Integrado MID  2021</title>
+    <title>Taller Integrado MID 2021</title>
     <link>https://tallerintegrado2021.github.io/</link>
-    <description>Recent content in Taller Integrado MID  on Taller Integrado MID  2021</description>
+    <description>Recent content on Taller Integrado MID 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://tallerintegrado2021.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -17,12 +17,21 @@
     </item>
     
     <item>
-      <title>Fusion 360 - Diseño Generativo</title>
-      <link>https://tallerintegrado2021.github.io/docs/tutoriales-fusion-generativo/</link>
+      <title>Tutorial - Autodesk Fusion 360 Piping</title>
+      <link>https://tallerintegrado2021.github.io/docs/tutoriales-fusion360-piping/</link>
+      <pubDate>Thu, 17 Sep 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tallerintegrado2021.github.io/docs/tutoriales-fusion360-piping/</guid>
+      <description>Video tutoriales de Fusion 360 - Piping</description>
+    </item>
+    
+    <item>
+      <title>Tutorial - Grasshopper</title>
+      <link>https://tallerintegrado2021.github.io/docs/tutoriales-grasshopper/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://tallerintegrado2021.github.io/docs/tutoriales-fusion-generativo/</guid>
-      <description>Video tutoriales de Fusion 360 - Diseño generativo</description>
+      <guid>https://tallerintegrado2021.github.io/docs/tutoriales-grasshopper/</guid>
+      <description>Video tutoriales Grasshopper.</description>
     </item>
     
     <item>
@@ -35,12 +44,12 @@
     </item>
     
     <item>
-      <title>Tutoriales Complementarios</title>
-      <link>https://tallerintegrado2021.github.io/docs/tutoriales-extra/</link>
+      <title>Tutorial 2 - Keyshot</title>
+      <link>https://tallerintegrado2021.github.io/docs/tutoriales-keyshot2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://tallerintegrado2021.github.io/docs/tutoriales-extra/</guid>
-      <description>Video tutoriales de Software - Complementario</description>
+      <guid>https://tallerintegrado2021.github.io/docs/tutoriales-keyshot2/</guid>
+      <description>Video tutoriales de Keyshot</description>
     </item>
     
     <item>
@@ -50,6 +59,24 @@
       
       <guid>https://tallerintegrado2021.github.io/docs/tutoriales-fusion/</guid>
       <description>Video tutoriales de Fusion 360.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Complementario 1 - Autodesk Fusion 360</title>
+      <link>https://tallerintegrado2021.github.io/docs/tutoriales-extra/</link>
+      <pubDate>Mon, 18 May 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tallerintegrado2021.github.io/docs/tutoriales-extra/</guid>
+      <description>Video tutoriales de Software - Complementario</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Complementario 2 - Autodesk Fusion 360</title>
+      <link>https://tallerintegrado2021.github.io/docs/tutoriales-fusion360-moldes/</link>
+      <pubDate>Sun, 17 May 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tallerintegrado2021.github.io/docs/tutoriales-fusion360-moldes/</guid>
+      <description>Video tutoriales de introducción a Fusion 360 - Moldes</description>
     </item>
     
     <item>
